@@ -1,0 +1,12 @@
+npm install nodemon -D // instala como dependencia de desenvolvimento autoRun Node
+npm install express // gerenciador das rotas api
+npm install knex // instala o gerenciador de banco sql
+npm install cors // modulo de seguranca da api
+
+mpx knex // lista todos os comandos do knex
+npx knex migrate: make create_nomeTabela // cria uma tabela
+npx knex migrate:latest // roda uma migrate
+npx knex migrate:rollback // anula o ultimo comando rodado na migrate
+npx knex migrate:status // mostra as migrations que já foram executadas
+
+
