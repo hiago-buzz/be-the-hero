@@ -4,7 +4,7 @@
 
 <h2 align="center">
 
-  <img alt="Semana OmniStack" src=".readme/rocket.svg" width="200px" />
+  <img alt="Semana OmniStack" src=".readme/rocketseat.svg" width="200px" />
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
