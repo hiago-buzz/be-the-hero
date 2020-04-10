@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
+    <img alt="Semana OmniStack" src=".readme/logo.svg" width="200px" />
 </h1>
 
 <h2 align="center">
 
-  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
+  <img alt="Semana OmniStack" src=".readme/rocket.svg" width="200px" />
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
@@ -58,3 +58,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 by **Rocketseat/hiago-buzz**
+
+
