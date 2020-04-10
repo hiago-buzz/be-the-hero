@@ -1,0 +1,35 @@
+* BACKEND *
+
+npm install nodemon -D // instala como dependencia de desenvolvimento autoRun Node
+npm install express // gerenciador das rotas api
+npm install knex // instala o gerenciador de banco sql
+npm install cors // modulo de seguranca da api
+
+npx knex // lista todos os comandos do knex
+npx knex migrate: make create_nomeTabela // cria uma tabela
+npx knex migrate:latest // roda uma migrate
+npx knex migrate:rollback // anula o ultimo comando rodado na migrate
+npx knex migrate:status // mostra as migrations que já foram executadas
+
+
+* FRONTEND WEB *
+npx create-react-app <nomeDoAPP> // cria um projeto React JS
+
+npm install react-icons // install a biblioteca de icones do react
+npm install react-router-dom // biblioteca de rotas da aplicacao
+npm install axios // instala cliente http do react para realizar requisições
+
+* MOBILE *
+
+npm install -g expo-cli // instala o expo global para ser usado em qualquer projeto
+expo -h // ver se deu tudo certo 
+expo init <nome do projeto> // cria projeto react native
+yarn start // executa o projeto
+
+npm install @react-navigation/native // pacote de gerenciador de rotas
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack // pacote para criar a nnavecao entre paginas que nao é por menu
+
+expo install expo-constants // pacote para estilizar componentss
+expo install expo-mail-composer // pacote para enviar email por dentro do app
+
