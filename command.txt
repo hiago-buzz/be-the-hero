@@ -1,10 +1,15 @@
-* BACKEND *
+﻿* BACKEND *
 
 npm install nodemon -D // instala como dependencia de desenvolvimento autoRun Node
 npm install express // gerenciador das rotas api
 npm install knex // instala o gerenciador de banco sql
 npm install cors // modulo de seguranca da api
+npm install celebrate // lib que integra a lib joy de validacao do node com o express
+npm install jest -D // framework de tests
+npm install cross-env // para usar uma variavel de ambiente quando usar test 
+npm install supertest -D   // lib de chamadas http para tests 
 
+npx jest --int // inicia o jest
 npx knex // lista todos os comandos do knex
 npx knex migrate: make create_nomeTabela // cria uma tabela
 npx knex migrate:latest // roda uma migrate
@@ -32,4 +37,10 @@ npm install @react-navigation/stack // pacote para criar a nnavecao entre pagina
 
 expo install expo-constants // pacote para estilizar componentss
 expo install expo-mail-composer // pacote para enviar email por dentro do app
+
+
+* DEPLOY GRATUITO DE PROJETOS *
+NODE === HEROKU
+REACT === NETFLIFY
+
 
