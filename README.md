@@ -11,9 +11,8 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -38,11 +37,11 @@ Extras:
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
 
-## Projeto
+## :Projeto
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas doando algum valor que supra as necessidades.
 
-## Como contribuir
+## :Como contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
